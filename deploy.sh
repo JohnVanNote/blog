@@ -10,6 +10,6 @@
 
 echo "Building blog..."
 
-hugo server
+hugo server -w
 
 echo "Blog built..."

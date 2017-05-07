@@ -1,9 +1,10 @@
 ---
-baseUrl: "https://blog.johnvannote.com"
+#baseUrl: "https://blog.johnvannote.com"
 contentDir: "content"
 layoutDir: "layout"
 canonifyUrls: true
 title: "Who cares what JVN says"
+theme: "base16"
 indexes:
     category: "categories"
-...
+---
